@@ -20,3 +20,5 @@ Suggestions, paper updates, and pull requests are welcome. Edit `README.md` and 
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06070)
 [![Code](https://img.shields.io/github/stars/dvlab-research/ControlNeXt.svg?style=social&label=Star)](https://github.com/dvlab-research/ControlNeXt.git)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://pbihao.github.io/projects/controlnext/index.html)
+
+**README tip:** Keep `<details>` on the **same line** as the paper line (right after the date), exactly like the example above. If you put `<details>` on a **new line** under the `+` item, GitHub’s README renderer can fail to show the SVG badges (`[![Paper]]`, etc.) even though the same markdown looks fine in other files or previews.
