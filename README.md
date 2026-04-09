@@ -43,23 +43,23 @@ If you find this repo is useful for your research, welcome to 🌟 this repo and
         Ronald J. Williams</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://link.springer.com/article/10.1007/BF00992696)
 
-+ **TRPO: Trust Region Policy Optimization** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (2015)<details><summary>John Schulman, Sergey Levine, Philipp Moritz, Michael I. Jordan, Pieter Abbeel</summary>
-        John Schulman, Sergey Levine, Philipp Moritz, Michael I. Jordan, Pieter Abbeel</details>
++ **TRPO: Trust Region Policy Optimization** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (2015)<details><summary>John Schulman, Sergey Levine, Philipp Moritz, Michael I. Jordan, et al.</summary>
+        John Schulman, Sergey Levine, Philipp Moritz, Michael I. Jordan, et al.</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1502.05477)
 [![Code](https://img.shields.io/github/stars/joschu/modular_rl.svg?style=social&label=Star)](https://github.com/joschu/modular_rl)
 
-+ **PPO: Proximal Policy Optimization Algorithms** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (20 Jul 2017)<details><summary>John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov</summary>
-        John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov</details>
++ **PPO: Proximal Policy Optimization Algorithms** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (20 Jul 2017)<details><summary>John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, et al.</summary>
+        John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, et al.</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1707.06347)
 [![Code](https://img.shields.io/github/stars/openai/baselines.svg?style=social&label=Star)](https://github.com/openai/baselines)
 
-+ **DPO: Direct Preference Optimization: Your Language Model is Secretly a Reward Model** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (29 May 2023)<details><summary>Eric Mitchell, Rafael Rafailov, Archit Sharma, Chelsea Finn, Stefano Ermon</summary>
-        Eric Mitchell, Rafael Rafailov, Archit Sharma, Chelsea Finn, Stefano Ermon</details>
++ **DPO: Direct Preference Optimization: Your Language Model is Secretly a Reward Model** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (29 May 2023)<details><summary>Eric Mitchell, Rafael Rafailov, Archit Sharma, Chelsea Finn, et al.</summary>
+        Eric Mitchell, Rafael Rafailov, Archit Sharma, Chelsea Finn, et al.</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18290)
 [![Code](https://img.shields.io/github/stars/eric-mitchell/direct-preference-optimization.svg?style=social&label=Star)](https://github.com/eric-mitchell/direct-preference-optimization)
 
-+ **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models (GRPO)** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (05 Feb 2024)<details><summary>DeepSeek AI, Qihao Zhu, Bowen Chen, Zhanglin Yu, et al.</summary>
-        DeepSeek AI, Qihao Zhu, Bowen Chen, Zhanglin Yu, et al.</details>
++ **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models (GRPO)** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (05 Feb 2024)<details><summary>DeepSeek AI, Qihao Zhu, Bowen Chen, Zhanglin Yu</summary>
+        DeepSeek AI, Qihao Zhu, Bowen Chen, Zhanglin Yu</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.03300)
 [![Code](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Math.svg?style=social&label=Star)](https://github.com/deepseek-ai/DeepSeek-Math)
 
