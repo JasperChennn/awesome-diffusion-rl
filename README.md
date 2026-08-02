@@ -66,6 +66,11 @@ If you find this repo is useful for your research, welcome to 🌟 this repo and
 
 <h2 id="diffusion-rl">Diffusion RL papers (T2I、T2V)</h2>
 
++ **Diffusion-DPO: Diffusion Model Alignment Using Direct Preference Optimization** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (21 Nov 2023)<details><summary>Bram Wallace, Meihua Dang, Rafael Rafailov, Linqi Zhou, et al.</summary>
+        Bram Wallace, Meihua Dang, Rafael Rafailov, Linqi Zhou, Aaron Lou, Senthil Purushwalkam, Stefano Ermon, Caiming Xiong, Shafiq Joty, Nikhil Naik</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.12908)
+[![Code](https://img.shields.io/github/stars/SalesforceAIResearch/DiffusionDPO.svg?style=social&label=Star)](https://github.com/SalesforceAIResearch/DiffusionDPO)
+
 + **Flow-GRPO: Training Flow Matching Models via Online RL** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (12 May 2025)<details><summary>Jie Liu, Gongye Liu, Jiajun Liang, Yangguang Li, et al.</summary>
         Jie Liu, Gongye Liu, Jiajun Liang, Yangguang Li, Jiaheng Liu, Xintao Wang, Pengfei Wan, Di Zhang, Wanli Ouyang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.05470)
@@ -76,6 +81,26 @@ If you find this repo is useful for your research, welcome to 🌟 this repo and
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.07818)
 [![Code](https://img.shields.io/github/stars/XueZeyue/DanceGRPO.svg?style=social&label=Star)](https://github.com/XueZeyue/DanceGRPO)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://dancegrpo.github.io/)
+
++ **Flow-CPS: Coefficients-Preserving Sampling for Reinforcement Learning with Flow Matching** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (07 Sep 2025)<details><summary>Feng Wang, Zihao Yu</summary>
+        Feng Wang, Zihao Yu</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.05952)
+
++ **AWM: Advantage Weighted Matching: Aligning RL with Pretraining in Diffusion Models** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (29 Sep 2025)<details><summary>Shuchen Xue, Chongjian Ge, Shilong Zhang, Yichen Li, Zhi-Ming Ma</summary>
+        Shuchen Xue, Chongjian Ge, Shilong Zhang, Yichen Li, Zhi-Ming Ma</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.25050)
+[![Code](https://img.shields.io/github/stars/scxue/advantage_weighted_matching.svg?style=social&label=Star)](https://github.com/scxue/advantage_weighted_matching)
+
++ **Diffusion-SDPO: Safeguarded Direct Preference Optimization for Diffusion Models** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (05 Nov 2025)<details><summary>Minghao Fu, Guo-Hua Wang, Tianyu Cui, Qing-Guo Chen, et al.</summary>
+        Minghao Fu, Guo-Hua Wang, Tianyu Cui, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.03317)
+[![Code](https://img.shields.io/github/stars/AIDC-AI/Diffusion-SDPO.svg?style=social&label=Star)](https://github.com/AIDC-AI/Diffusion-SDPO)
+
++ **Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (15 May 2026)<details><summary>Xiaoxuan He, Siming Fu, Zeyue Xue, Weijie Wang, et al.</summary>
+        Xiaoxuan He, Siming Fu, Zeyue Xue, Weijie Wang, Ruizhe He, Yuming Li, Dacheng Yin, Shuai Dong, Haoyang Huang, Hongfa Wang, Nan Duan, Bohan Zhuang</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.15980)
+[![Code](https://img.shields.io/github/stars/Shredded-Pork/Flash-GRPO.svg?style=social&label=Star)](https://github.com/Shredded-Pork/Flash-GRPO)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://shredded-pork.github.io/Flash-GRPO.github.io/)
 
 + **SRPO: Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human Preference** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (14 Sep 2025)<details><summary>Xiangwei Shen, Qifeng Chen, Boyang Li, et al.</summary>
         Xiangwei Shen, Qifeng Chen, Boyang Li, Haoqiang Fan, Shuaicheng Liu</details>
