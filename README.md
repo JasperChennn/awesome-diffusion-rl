@@ -144,6 +144,10 @@ If you find this repo is useful for your research, welcome to 🌟 this repo and
 
 ## Blog or Technical Report
 
+## Frameworks & Toolkits
+
++ **VeRL-Omni**: Easy, fast, and stable RL training for diffusion and omni-modality models. [[Code](https://github.com/verl-project/verl-omni)] [[Docs](https://verl-omni.readthedocs.io/en/latest/index.html)]
+
 ## Related Awesome Lists
 
 
