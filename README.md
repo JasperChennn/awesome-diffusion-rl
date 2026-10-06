@@ -140,6 +140,12 @@ If you find this repo is useful for your research, welcome to 🌟 this repo and
         Yuanzhi Zhu, Xi Wang, Stéphane Lathuilière, Vicky Kalogeiton</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.14128)
 
++ **MEND: RL For Flow Models via Proximal Velocity Matching** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (05 Oct 2026)<details><summary>Shreshth Saini, Neil Birkbeck, Yilin Wang, Balu Adsumilli, Alan C. Bovik</summary>
+        Shreshth Saini, Neil Birkbeck, Yilin Wang, Balu Adsumilli, Alan C. Bovik</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.05954)
+[![Code](https://img.shields.io/github/stars/shreshthsaini/MEND-RL.svg?style=social&label=Star)](https://github.com/shreshthsaini/MEND-RL)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://shreshthsaini.github.io/MEND-RL/)
+
 ## Benchmarks & Evaluation
 
 ## Blog or Technical Report
